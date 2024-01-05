@@ -20,6 +20,7 @@ public class User implements Serializable {
     private String email;
     private int age;
     private String avatar;
+    private String signature;
     private String nickName;
     private int enabled;
     private int accountNoExpired;
